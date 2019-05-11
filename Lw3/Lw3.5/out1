@@ -1,0 +1,11 @@
+Method of rectangles = -0.1878310847553158	Step = 1.0
+Method of rectangles = -0.19940628065257357	Step = 0.5
+Error: 0.00386
+==========
+Method of trapeziums = -0.23658183921341816	Step = 1.0
+Method of trapeziums = -0.212206461984367	Step = 0.5
+Error: 0.00813
+==========
+Simpson's method  = -0.2071717755928282	Step = 1.0
+Simpson's method  = -0.20408133624134991	Step = 0.5
+Error: 0.00021

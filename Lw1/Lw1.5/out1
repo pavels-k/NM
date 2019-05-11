@@ -1,0 +1,8 @@
+Solution:
+Steps = 11
+Eigenvalues:
+[-13.006+0.j      4.503+2.804j   4.503-2.804j]
+
+Check by NumPy:
+Eigenvalues:
+[-13.006+0.j      4.503+2.804j   4.503-2.804j]
